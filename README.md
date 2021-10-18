@@ -1,11 +1,7 @@
-## My Project
+## Amazon DevOps Guru Brickwall-Maker Docker Container
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This container can be used to simulate a memory leak within a docker container
+application to trigger an insight within Amazon DevOps Guru.
 
 ## Security
 
@@ -13,5 +9,5 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 ## License
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
+This library is licensed under the MIT-0 License. See the [LICENSE](LICENSE) file.
 
