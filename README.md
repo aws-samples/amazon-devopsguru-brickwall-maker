@@ -1,7 +1,9 @@
 ## Amazon DevOps Guru Brickwall-Maker Docker Container
 
 This container can be used to simulate a memory leak within a docker container
-application to trigger an insight within Amazon DevOps Guru.
+to trigger an insight within Amazon DevOps Guru.
+
+For instructions on how to set this up and building the container please refer to our [Generating DevOps Guru Proactive Insights for Amazon ECS](https://aws.amazon.com/blogs/devops/generate-devops-guru-proactive-insights-in-ecs-using-container-insights/) blog post.
 
 ## Security
 
